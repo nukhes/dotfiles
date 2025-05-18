@@ -23,5 +23,5 @@ chmod +x bootstrap.sh
 To install all available packages via apt:
 ```bash
 sudo apt update
-sudo apt install -y bash git i3 i3status dconf-cli obs-studio rofi bleachbit virtualbox parcellite flameshot kitty
+sudo apt install -y bash git i3 i3status dconf-cli obs-studio rofi bleachbit virtualbox parcellite flameshot kitty gtk2-engines-murrine
 ```
