@@ -1,0 +1,804 @@
+{
+	"file_history":
+	[
+		"/home/alves/Downloads/README.md",
+		"/home/alves/dotfiles/bootstrap.sh",
+		"/home/alves/.local/share/applications/tauon.desktop",
+		"/home/alves/.local/share/applications/heroic.desktop",
+		"/home/alves/.local/share/applications/github.desktop",
+		"/home/alves/.local/share/applications/zapzap.desktop",
+		"/home/alves/src/asdf/internal/cli/set/set.go",
+		"/home/alves/src/asdf/internal/cli/set/set_test.go",
+		"/media/alves/SSD/src/organizer/requirements.txt",
+		"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (copy).desktop",
+		"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (another copy).desktop",
+		"/home/alves/.local/share/applications/librewolf.desktop",
+		"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (3rd copy).desktop",
+		"/home/alves/.local/share/applications/whatsapp.desktop",
+		"/home/alves/Applications/squashfs-root/zapzap.desktop",
+		"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian.desktop",
+		"/home/alves/src/rustlings/exercises/08_enums/enums3.rs",
+		"/home/alves/src/rustlings/exercises/08_enums/enums2.rs",
+		"/usr/share/themes/Mint-Y-Dark-Purple/cinnamon/cinnamon.css",
+		"/home/alves/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (copy).desktop",
+		"/home/alves/.local/share/applications/Obsidian.cinnamon-generated.desktop",
+		"/home/alves/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/alves/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/alves/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/alves/.config/sublime-text/Packages/Default/Preferences.sublime-settings"
+	],
+	"folder_history":
+	[
+		"/home/alves/dotfiles/dotfiles",
+		"/home/alves/.local/share/applications",
+		"/home/alves/src/asdf",
+		"/home/alves/src/rustlings"
+	],
+	"last_version": 4192,
+	"last_window_id": 15,
+	"log_indexing": false,
+	"next_update_check": 1747584962,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1024.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			0.0,
+			85.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ec",
+						"Echo"
+					],
+					[
+						"re",
+						"resize"
+					],
+					[
+						"ma",
+						"match\tmatch … { … }"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ins",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/alves/dotfiles/dotfiles/README.md",
+				"/home/alves/dotfiles/bootstrap.sh",
+				"/media/alves/SSD/src/organizer/requirements.txt",
+				"/home/alves/.local/share/applications/zapzap.desktop",
+				"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (copy).desktop",
+				"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (another copy).desktop",
+				"/home/alves/.local/share/applications/librewolf.desktop",
+				"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (3rd copy).desktop",
+				"/home/alves/.local/share/applications/whatsapp.desktop",
+				"/home/alves/Applications/squashfs-root/zapzap.desktop",
+				"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian.desktop",
+				"/home/alves/src/rustlings/exercises/08_enums/enums3.rs",
+				"/home/alves/src/rustlings/exercises/08_enums/enums2.rs",
+				"/usr/share/themes/Mint-Y-Dark-Purple/cinnamon/cinnamon.css",
+				"/home/alves/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (copy).desktop",
+				"/home/alves/.local/share/applications/Obsidian.cinnamon-generated.desktop"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 212.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ec",
+						"Echo"
+					],
+					[
+						"re",
+						"resize"
+					],
+					[
+						"ma",
+						"match\tmatch … { … }"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/alves/dotfiles/dotfiles/README.md",
+					"settings":
+					{
+						"buffer_size": 1596,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"paste",
+							null,
+							"AgAAAAsAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC4AAAAAAAAABMAAAAgbXkgbGludXggZG90ZmlsZXMK",
+							"AQAAAAAAAAABAAAAHgAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAsAAAAAAAAACwAAAAAAAAABAAAAVA",
+							"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							2,
+							"left_delete",
+							null,
+							"AgAAAIgAAAAAAAAAiAAAAAAAAAAOAAAAd2luZG93IG1hbmFnZXKHAAAAAAAAAIcAAAAAAAAAAQAAACA",
+							"AQAAAAAAAAABAAAAlgAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "wm"
+							},
+							"AgAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAKsAAAAAAAAArAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"paste",
+							null,
+							"AQAAAKwAAAAAAAAAfgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "="
+							},
+							"AQAAAMIAAAAAAAAAwwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							2,
+							"left_delete",
+							null,
+							"AgAAAMIAAAAAAAAAwgAAAAAAAAABAAAAPcEAAAAAAAAAwQAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAwwAAAAAAAADDAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAIAAAAAAAAAAgAAAAAAAAABAAAAZA",
+							"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"insert",
+							{
+								"characters": "D"
+							},
+							"AQAAAAIAAAAAAAAAAwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"left_delete",
+							null,
+							"AQAAANoAAAAAAAAA2gAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAA2wAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGcBAAAAAAAAZwEAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAaAEAAAAAAABoAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKQBAAAAAAAApAEAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAApQEAAAAAAAClAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHUCAAAAAAAAdQIAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAdgIAAAAAAAB2AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAHUCAAAAAAAAdgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdQIAAAAAAAB1AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHUCAAAAAAAAdQIAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAdgIAAAAAAAB2AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							55,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAHkCAAAAAAAAegIAAAAAAAAAAAAAegIAAAAAAAB7AgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAeQIAAAAAAAB5AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							56,
+							1,
+							"paste",
+							null,
+							"AQAAAHsCAAAAAAAAYQgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAewIAAAAAAAB7AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							1,
+							"left_delete",
+							null,
+							"AQAAAL0CAAAAAAAAvQIAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAvgIAAAAAAAC+AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							2,
+							"left_delete",
+							null,
+							"AgAAAL4CAAAAAAAAvgIAAAAAAABwAAAAVGhlIGRvdGZpbGVzIGNvbmZpZ3VyZSB0aGUgZm9sbG93aW5nIHNvZnR3YXJlL3Rvb2xzLiBUbyBmdWxseSB1c2UgdGhlIGNvbmZpZ3MsIGluc3RhbGwgdGhlc2UgcGFja2FnZXMgdmlhIGBhcHRgOr0CAAAAAAAAvQIAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAALgMAAAAAAAC+AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJACAAAAAAAAkAIAAAAAAAAYAAAAQW5hbHlzaXMgJiBJbnN0YWxsYXRpb24g",
+							"AQAAAAAAAAABAAAAqAIAAAAAAACQAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							70,
+							1,
+							"left_delete",
+							null,
+							"AQAAALgCAAAAAAAAuAIAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAuQIAAAAAAAC5AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							73,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPQCAAAAAAAA9AIAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAA9QIAAAAAAAD1AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							78,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIEDAAAAAAAAgQMAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAggMAAAAAAACCAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							85,
+							14,
+							"left_delete",
+							null,
+							"DgAAAB8EAAAAAAAAHwQAAAAAAAAJAAAAc2VlIGJlbG93HgQAAAAAAAAeBAAAAAAAAAEAAAAgHQQAAAAAAAAdBAAAAAAAAAEAAAAsHAQAAAAAAAAcBAAAAAAAAAEAAABzGwQAAAAAAAAbBAAAAAAAAAEAAABvGgQAAAAAAAAaBAAAAAAAAAEAAABwGQQAAAAAAAAZBAAAAAAAAAEAAABlGAQAAAAAAAAYBAAAAAAAAAEAAAByFwQAAAAAAAAXBAAAAAAAAAEAAAAgFgQAAAAAAAAWBAAAAAAAAAEAAAB0FQQAAAAAAAAVBAAAAAAAAAEAAABsFAQAAAAAAAAUBAAAAAAAAAEAAAB1EwQAAAAAAAATBAAAAAAAAAEAAABhEgQAAAAAAAASBAAAAAAAAAEAAABm",
+							"AQAAAAAAAAABAAAAKAQAAAAAAAAfBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							86,
+							12,
+							"left_delete",
+							null,
+							"DAAAABEEAAAAAAAAEQQAAAAAAAABAAAAZRAEAAAAAAAAEAQAAAAAAAABAAAAZA8EAAAAAAAADwQAAAAAAAABAAAAIA4EAAAAAAAADgQAAAAAAAABAAAAbg0EAAAAAAAADQQAAAAAAAABAAAAaQwEAAAAAAAADAQAAAAAAAABAAAAIAsEAAAAAAAACwQAAAAAAAABAAAAdAoEAAAAAAAACgQAAAAAAAABAAAAbwkEAAAAAAAACQQAAAAAAAABAAAAbggEAAAAAAAACAQAAAAAAAABAAAAIAcEAAAAAAAABwQAAAAAAAABAAAALAYEAAAAAAAABgQAAAAAAAABAAAAcg",
+							"AQAAAAAAAAABAAAAEgQAAAAAAAASBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							95,
+							2,
+							"left_delete",
+							null,
+							"AgAAAPIDAAAAAAAA8gMAAAAAAAAKAAAAT3B0aW9uYWwpIPEDAAAAAAAA8QMAAAAAAAABAAAAKA",
+							"AQAAAAAAAAABAAAA/AMAAAAAAADyAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							98,
+							1,
+							"insert",
+							{
+								"characters": "r"
+							},
+							"AQAAAPsDAAAAAAAA/AMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+wMAAAAAAAD7AwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							105,
+							1,
+							"left_delete",
+							null,
+							"AQAAANIEAAAAAAAA0gQAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAA0wQAAAAAAADTBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							108,
+							2,
+							"left_delete",
+							null,
+							"AgAAABwFAAAAAAAAHAUAAAAAAAAhAQAACmBgYGJhc2gKd2dldCAtcU8gLSBodHRwczovL2Rvd25sb2FkLnN1YmxpbWV0ZXh0LmNvbS9zdWJsaW1laHEtcHViLmdwZyB8IHN1ZG8gYXB0LWtleSBhZGQgLQpzdWRvIGFwdCBpbnN0YWxsIGFwdC10cmFuc3BvcnQtaHR0cHMKZWNobyAiZGViIGh0dHBzOi8vZG93bmxvYWQuc3VibGltZXRleHQuY29tLyBhcHQvc3RhYmxlLyIgfCBzdWRvIHRlZSAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9zdWJsaW1lLXRleHQubGlzdApzdWRvIGFwdCB1cGRhdGUKc3VkbyBhcHQgaW5zdGFsbCBzdWJsaW1lLXRleHQKYGBgChsFAAAAAAAAGwUAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAPQYAAAAAAAAcBQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							113,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIsFAAAAAAAAiwUAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAjAUAAAAAAACMBQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							116,
+							2,
+							"left_delete",
+							null,
+							"AgAAADcGAAAAAAAANwYAAAAAAABIAAAACkFmdGVyIGluc3RhbGxhdGlvbiwgb3B0aW9uYWxseSBpbnN0YWxsIFN1YmxpbWUgVGV4dCBhcyBkZXNjcmliZWQgYWJvdmUuNgYAAAAAAAA2BgAAAAAAAAEAAAAK",
+							"AQAAAAAAAAABAAAAfwYAAAAAAAA3BgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							121,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAHUCAAAAAAAAdgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdQIAAAAAAAB1AgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ins",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/alves/dotfiles/dotfiles"
+			],
+			"file_history":
+			[
+				"/home/alves/dotfiles/bootstrap.sh",
+				"/media/alves/SSD/src/organizer/requirements.txt",
+				"/home/alves/.local/share/applications/zapzap.desktop",
+				"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (copy).desktop",
+				"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (another copy).desktop",
+				"/home/alves/.local/share/applications/librewolf.desktop",
+				"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (3rd copy).desktop",
+				"/home/alves/.local/share/applications/whatsapp.desktop",
+				"/home/alves/Applications/squashfs-root/zapzap.desktop",
+				"/home/alves/.local/share/applications/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian.desktop",
+				"/home/alves/src/rustlings/exercises/08_enums/enums3.rs",
+				"/home/alves/src/rustlings/exercises/08_enums/enums2.rs",
+				"/usr/share/themes/Mint-Y-Dark-Purple/cinnamon/cinnamon.css",
+				"/home/alves/appimagekit_adf5b7a6ba2320cf06550a009762b303-Obsidian (copy).desktop",
+				"/home/alves/.local/share/applications/Obsidian.cinnamon-generated.desktop"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/alves/dotfiles/dotfiles"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/alves/dotfiles/dotfiles/README.md",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1596,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										310,
+										310
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,24,960,1048,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 212.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 14,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
