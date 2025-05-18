@@ -14,7 +14,7 @@ cpu_usage {
 }
 
 memory {
-    format = "Mem: %used / %total"
+    format = "RAM: %used / %total"
 }
 
 volume master {
