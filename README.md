@@ -1,5 +1,5 @@
-# Dotfiles
-this repository contains my personal dotfiles and configuration for various tools and environments, including shell, git, i3wm, and miscellaneous applications.
+# Personal Dotfiles
+This repository contains my personal dotfiles and configuration for various tools and environments, including shell, git, i3wm, and miscellaneous applications.
 
 ## Setup Instructions
 1. Clone the repository:
@@ -7,7 +7,6 @@ this repository contains my personal dotfiles and configuration for various tool
 git clone https://github.com/yourusername/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ```
-
 2. Run the bootstrap script to create symlinks:
 ```bash
 chmod +x bootstrap.sh
@@ -20,10 +19,7 @@ This will:
 
 3. Install required packages (see below)
 
----
-
 ## Required Packages (Debian/Ubuntu based)
-
 ### Shell and Git
 - bash (usually pre-installed)
 - git
@@ -46,14 +42,9 @@ This will:
 - sublime-text is not available in default apt repositories. To install:
 - mangohud might require adding a PPA or building from source on some distros.
 
----
-
 ## Install Command Example
 To install all available packages via apt:
-
 ```bash
 sudo apt update
 sudo apt install -y bash git i3 i3status dconf-cli obs-studio rofi bleachbit virtualbox parcellite
 ```
-
----
