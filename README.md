@@ -2,6 +2,7 @@
 This repository contains my personal dotfiles and configuration for various tools and environments, including shell, git, i3wm, and miscellaneous applications.
 
 > If you are going to use this EDIT .GITCONFIG FOR SAKE OF GOD, otherwise your commits will have my soul in it.
+> This is made for my setup, i dont give support to anyone trying to use this.
 
 ![preview](static/preview.png)
 
