@@ -1,6 +1,8 @@
 # Personal Dotfiles
 This repository contains my personal dotfiles and configuration for various tools and environments, including shell, git, i3wm, and miscellaneous applications.
 
+![preview](static/preview.png)
+
 # Setup
 
 1. Clone the repository:
