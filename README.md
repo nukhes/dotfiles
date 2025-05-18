@@ -1,6 +1,8 @@
 # Personal Dotfiles
 This repository contains my personal dotfiles and configuration for various tools and environments, including shell, git, i3wm, and miscellaneous applications.
 
+> If you are going to use this EDIT .GITCONFIG FOR SAKE OF GOD, otherwise your commits will have my soul in it.
+
 ![preview](static/preview.png)
 
 # Setup
