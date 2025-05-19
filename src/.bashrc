@@ -122,3 +122,4 @@ export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
 
 # personal aliases
 alias sizeof='du -h -d 1 | sort -hr'
+alias update='sudo apt update -y && sudo apt upgrade -y'
