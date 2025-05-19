@@ -129,7 +129,7 @@ bindsym $mod+Shift+e exec --no-startup-id ~/.config/i3/power.sh
 # --------------------------
 bar {
     status_command i3status
-
+    position top
     colors {
         background         #06060a
         statusline         #cdd6f4
