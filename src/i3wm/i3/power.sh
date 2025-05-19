@@ -3,7 +3,7 @@
 chosen=$(echo -e "Shutdown\nReboot\nSuspend\nLock\nCancel" | rofi -dmenu -i -p "Power State")
 
 case "$chosen" in
-  *Poweroff) systemctl poweroff ;;
+  *Shutdown) systemctl poweroff ;;
   *Reboot) systemctl reboot ;;
   *Suspend) systemctl suspend ;;
   *Lock) i3lock ;;
