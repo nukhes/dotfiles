@@ -10,7 +10,8 @@
     <ExtraData>
       <ExtraDataItem name="GUI/DisableHostScreenSaver" value="true"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=4a693b1c-3f21-4b5f-a2f4-5452ef39cf6c"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="506,325,960,540"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="647,13,627,1035"/>
+      <ExtraDataItem name="GUI/MaxGuestResolution" value="1920,1080"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/alves/Downloads"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/home/alves/Downloads/WIN10.PRO.AIO.U25.X64.(WPE).ISO"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="442,1477"/>
