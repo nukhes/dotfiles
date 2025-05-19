@@ -1,3 +1,4 @@
 **/dconf/*
 src/i3wm/dconf/user
 *.log
+src/sublime-text/Local/Session.sublime_session
