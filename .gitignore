@@ -1,2 +1,3 @@
 **/dconf/*
 src/i3wm/dconf/user
+*.log
