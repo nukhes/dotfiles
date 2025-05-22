@@ -2,6 +2,7 @@
 ln -sf "$HOME/dotfiles/src/.bashrc" "$HOME/"
 ln -sf "$HOME/dotfiles/src/.bash_logout" "$HOME/"
 ln -sf "$HOME/dotfiles/src/.gitconfig" "$HOME/"
+ln -sf "$HOME/dotfiles/src/fish" "$HOME/.config/"
 
 # i3wm config
 ln -sf "$HOME/dotfiles/src/i3wm/dconf" "$HOME/.config/"
