@@ -115,11 +115,12 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-. "$HOME/.cargo/env"
+# . "$HOME/.cargo/env"
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
-export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
+# export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
 
-# personal aliases
-alias sizeof='du -h -d 1 | sort -hr'
-alias update='sudo apt update -y && sudo apt upgrade -y'
+# # personal aliases
+# alias sizeof='du -h -d 1 | sort -hr'
+# alias update='sudo apt update -y && sudo apt upgrade -y'
+fish
