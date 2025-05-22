@@ -9,11 +9,15 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/DisableHostScreenSaver" value="true"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=4a693b1c-3f21-4b5f-a2f4-5452ef39cf6c"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="647,13,627,1035"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=ba9c2730-5d64-4c40-b0f5-df4cda14b690"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="1,25,1918,1054"/>
       <ExtraDataItem name="GUI/MaxGuestResolution" value="1920,1080"/>
+      <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="243,201,479,790"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/alves/Downloads"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/home/alves/Downloads/WIN10.PRO.AIO.U25.X64.(WPE).ISO"/>
+      <ExtraDataItem name="GUI/RecentFolderHD" value="/media/alves/alves/archlinux"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/alves/Downloads/archlinux-2025.05.01-x86_64.iso,/home/alves/Downloads/WIN10.PRO.AIO.U25.X64.(WPE).ISO"/>
+      <ExtraDataItem name="GUI/RecentListHD" value="/media/alves/alves/archlinux/archlinux.vdi"/>
+      <ExtraDataItem name="GUI/SoftKeyboardDialogGeometry" value="961,25,958,1054"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="442,1477"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture,confirmGoingFullscreen,confirmGoingScale,confirmPowerOffMachine"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
@@ -21,6 +25,7 @@
     <MachineRegistry>
       <MachineEntry uuid="{16f156b7-ec99-4cd7-be7a-de6210e0a812}" src="/home/alves/VirtualBox/kali-linux-2025.1c-virtualbox-amd64/kali-linux-2025.1c-virtualbox-amd64.vbox"/>
       <MachineEntry uuid="{4a693b1c-3f21-4b5f-a2f4-5452ef39cf6c}" src="/home/alves/VirtualBox/windows-10/windows-10.vbox"/>
+      <MachineEntry uuid="{ba9c2730-5d64-4c40-b0f5-df4cda14b690}" src="/home/alves/VirtualBox/arch/arch.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>
