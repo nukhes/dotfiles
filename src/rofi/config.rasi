@@ -1,6 +1,7 @@
 @import "catppuccin-mocha"
 
 * {
+  font: "CaskaydiaCove Nerd Font 11";
   selected-active-foreground:  @background;
   lightfg:                     @text;
   separatorcolor:              @foreground;
@@ -30,7 +31,7 @@
 
 }
 element {
-    padding: 1px ;
+    padding: 8px ;
     cursor:  pointer;
     spacing: 5px ;
     border:  0;
