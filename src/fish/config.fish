@@ -29,6 +29,8 @@ set --erase _asdf_shims
 alias sizeof='du -h -d 1 | sort -hr'
 alias update='sudo apt update -y && sudo apt upgrade -y'
 
-if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
-  exec startx
-fi
+# Start X Session
+if test -z "$DISPLAY"; and test (tty) = "/dev/tty1"
+    startx
+end
+
