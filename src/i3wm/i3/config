@@ -6,7 +6,7 @@
 # Configurações Básicas
 # --------------------------
 set $mod Mod4
-font pango:DejaVu Sans Mono 11
+font pango:CaskaydiaCove Nerd Font 10
 
 # --------------------------
 # Configurações de Monitor
@@ -17,9 +17,8 @@ exec --no-startup-id xrandr --output HDMI-A-0 --mode 1920x1080 --rate 75
 # Autostart de Aplicativos
 # --------------------------
 # exec --no-startup-id dex --autostart --environment i3                 # XDG autostart
-exec --no-startup-id parcellite                                         # Área de Transferência
+# exec --no-startup-id parcellite                                         # Área de Transferência
 exec --no-startup-id syncthing -no-browser                              # Sycnthing
-exec --no-startup-id nm-applet                                          # Applet do NetworkManager
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork  # Bloqueio de tela
 
 # --------------------------
@@ -53,7 +52,7 @@ for_window [class=".*"] border pixel 1
 # Lançamento de Aplicativos
 bindsym $mod+Return exec kitty
 bindsym $mod+r exec "rofi -modi drun,run -show drun"
-bindsym $mod+b exec brave-browser
+bindsym $mod+b exec google-chrome-stable
 bindsym $mod+e exec thunar
 bindsym $mod+m exec --no-startup-id kitty -e alsamixer
 bindsym $mod+p exec flameshot gui
