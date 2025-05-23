@@ -6,7 +6,7 @@
 # Configurações Básicas
 # --------------------------
 set $mod Mod4
-font pango:CaskaydiaCove Nerd Font 10
+font pango:CaskaydiaCove Nerd Font 11
 
 # --------------------------
 # Configurações de Monitor
@@ -132,7 +132,7 @@ bar {
     status_command i3status
     position top
     colors {
-        background         #000000
+        background         #040408
         statusline         #cdd6f4
         focused_statusline #cdd6f4
         focused_separator  #1e1e2e
