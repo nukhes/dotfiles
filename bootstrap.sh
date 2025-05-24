@@ -23,12 +23,5 @@ ln -sf "$HOME/dotfiles/src/parcellite" "$HOME/.config/"
 ln -sf "$HOME/dotfiles/src/neofetch" "$HOME/.config/"
 
 # install
-sudo pacman -S rofi git xdg-user-dirs ufw pulseaudio pulseaudio-alsa alsa-utils pavucontrol gnome-keyring seahorse breeze breeze-gtk breeze-icons qt5ct lxappearance 
-sudo pacman -S kvantum kvantum-theme-materia materia-gtk-theme capitaine-cursors arc-icon-theme lxappearance
-sudo pacman -S ttf-cascadia-code-nerd code 
-# firewall config
-ufw default deny && ufw allow from 192.168.0.0/24 && ufw limit ssh
-ufw enable
-systemctl enable ufw
-systemctl start ufw
-ufw status
+sudo pacman -S --needed alsa-utils amd-ucode base blueman bluez-utils docker docker-compose efibootmgr eza fastfetch flameshot flatpak htop i3-wm imlib2 kitty linux-lts lxappearance nano noto-fonts-emoji pacman-contrib pavucontrol smartmontools syncthing terminus-font thunar ttf-cascadia-code-nerd ufw unzip wget wireless_tools xf86-video-amdgpu xorg-server xorg-sessreg xorg-xinit zip
+sudo pacman -Syu
