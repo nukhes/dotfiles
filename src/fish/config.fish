@@ -33,4 +33,5 @@ alias update='sudo apt update -y && sudo apt upgrade -y'
 if test -z "$DISPLAY"; and test (tty) = "/dev/tty1"
     startx
 end
-
+cd ~/
+clear
