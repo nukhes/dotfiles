@@ -20,13 +20,14 @@ exec --no-startup-id xrandr --output HDMI-A-0 --mode 1920x1080 --rate 75
 # exec --no-startup-id parcellite                                         # Área de Transferência
 exec --no-startup-id syncthing -no-browser                              # Sycnthing
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork  # Bloqueio de tela
+exec /usr/lib/xdg-desktop-portal -rv # Suporte a portais
 
 # --------------------------
 # Configurações de Hardware
 # --------------------------
 # Desativa aceleração do mouse
 exec --no-startup-id xinput set-prop "VXE VXE Mouse 1K Dongle Mouse" "libinput Accel Profile Enabled" 0, 1
-exec setxkbmap -layout us -variant intl
+exec --no-startup-id setxkbmap -layout us -variant intl
 
 # --------------------------
 # Atalhos de Áudio
@@ -131,7 +132,7 @@ bar {
     status_command i3status
     position top
     colors {
-        background         #040408
+        background         #1e1e2e
         statusline         #cdd6f4
         focused_statusline #cdd6f4
         focused_separator  #1e1e2e
