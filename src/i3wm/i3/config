@@ -26,6 +26,7 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork  # Bloque
 # --------------------------
 # Desativa aceleração do mouse
 exec --no-startup-id xinput set-prop "VXE VXE Mouse 1K Dongle Mouse" "libinput Accel Profile Enabled" 0, 1
+exec setxkbmap -layout us -variant intl
 
 # --------------------------
 # Atalhos de Áudio
@@ -41,9 +42,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 # --------------------------
 floating_modifier $mod
 tiling_drag modifier titlebar
-gaps inner 8px
-gaps outer 4px
-for_window [class=".*"] border pixel 1
+for_window [class=".*"] border pixel 2
 
 # --------------------------
 # Atalhos Principais
@@ -123,7 +122,7 @@ bindsym $mod+Shift+0 move container to workspace number $ws10
 # --------------------------
 bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
-bindsym $mod+Shift+e exec --no-startup-id ~/.config/i3/power.sh
+bindsym $mod+Shift+e exec --no-startup-id ~/.config/rofi/power.sh
 
 # --------------------------
 # Configuração da Barra
@@ -164,6 +163,8 @@ client.unfocused        $overlay0 $base $text  $rosewater $overlay0
 client.urgent           $peach    $base $peach $overlay0  $peach
 client.placeholder      $overlay0 $base $text  $overlay0  $overlay0
 client.background       $base
+
+gaps inner 8px
 
 # --------------------------
 # Regras para Janelas Flutuantes
